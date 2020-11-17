@@ -1,0 +1,40 @@
+body {
+  font-family: Verdana;
+}
+
+header {
+  background-color : #0b0736;
+  color            : #decc43;
+  display          : block;
+  padding          : 10px;
+}
+
+img {
+  float           : left;
+  padding-bottom  : 10px;
+  padding-right   : 10px;
+  width           : 150px;
+  
+}
+
+p {
+	color      : #0b0736;
+  font-style :  italic;
+  font-weight:  bold;
+}
+
+
+.results{
+  background-color: #decc43;
+  border          : 5px dashed #0b0736;
+  display         : block;
+  font-weight     : bold;
+	overflow        : auto;
+  padding         : 20px;
+}
+
+
+
+
+
+
